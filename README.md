@@ -1,2 +1,3 @@
-# opre
-Operációs rendszerek szorgalmi
+# Opre
+Operációs rendszerek szorgalmik
+
