@@ -1,0 +1,2 @@
+# opre
+Operációs rendszerek szorgalmi
